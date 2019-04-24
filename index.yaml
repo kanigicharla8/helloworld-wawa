@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  helloworld-wawa:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-24T13:52:36.367588-04:00
+    description: A Helm chart for Springboot helloworld
+    digest: 44ec2002f14f522db4c3b8bb61e0987d0212961c8b0c48935ae7390a48442d5d
+    name: helloworld-wawa
+    urls:
+    - https://github.com/kanigicharla8/helloworld-wawa/helloworld-wawa-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-24T13:52:36.3696011-04:00
+    description: A Helm chart for Springboot helloworld
+    digest: b8614804e120017d6639f6255d424ea3a8f1e4eb1831cce7beae786250ab53d5
+    name: helloworld-wawa
+    urls:
+    - https://github.com/kanigicharla8/helloworld-wawa/helm/helloworld-wawa-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-24T13:52:36.3665853-04:00
